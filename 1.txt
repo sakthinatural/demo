@@ -3,3 +3,6 @@ testing file
 fun1() {
 
 }
+
+fun2 () {
+}
